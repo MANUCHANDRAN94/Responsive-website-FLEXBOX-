@@ -151,7 +151,7 @@ header .logo a::before {
   margin-top: 10px;
   opacity: 75%;
   background: rgba(220, 220, 220, 0.5);
-  background-image: url(/public/search.svg);
+  background-image: url(./public/search.svg);
   background-repeat: no-repeat;
   background-size: 15px;
   background-position: 5px;

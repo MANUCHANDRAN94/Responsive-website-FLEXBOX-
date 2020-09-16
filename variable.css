@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+:root {
+  --greenish-bg-color: rgba(102, 205, 170, 0.2);
+  --font-family: "PT Sans", sans-serif;
+  --font-brown-shade: rgba(117, 109, 129, 0.7);
+  --font-color: rgba(0, 0, 0, 0.6);
+  --font-color-moredark: rgba(0, 0, 0, 0.8);
+  --more-green: rgba(0, 220, 154, 0.9);
+}
